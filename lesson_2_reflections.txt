@@ -1,0 +1,6 @@
+When you initialize a repository, the content of current directory can be managed by git. 
+Hidden folder .git is created, where all commits and changes are stored. But the commit history is empty
+until you commit the files.
+List of chnaged files, or yet not commited can be viewed using git status command
+
+staging area defines what files should be included in a commit. it must not contain all files in a working directory. i can remove files from staging area, but not from a repository, i think.
