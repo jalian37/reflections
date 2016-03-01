@@ -9,3 +9,12 @@ using staging area, i can define, what files were changed to make the logical ch
 add all changed files compared to previous version, or manually select the ones that are relevant and add them to 
 staging area
 
+branches are useful when you need to keep multiple versions of a file like language versions, exerimental features or 
+new features and fixing bugs
+
+visualising branches helps one understand the relationships of different branches and commits (or versions) 
+
+
+when merging two branches together, new commit is created that has two parents, so none of the previous versions within 
+the branches dissappear. 
+
