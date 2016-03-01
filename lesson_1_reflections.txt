@@ -1,0 +1,22 @@
+using fc pinpoints only the parts of the files that were changed
+i do not need to check every line of the file, which is a great advantage on files with hunderds or 
+thousands of lines
+
+using version cnotrol helps documenting history and safe experimenting, because I can always return to 
+previous state or combine the older with the new
+
+with manual commits you get versions that are meaningfull in respect of changes, but you must be
+disciplined to not to forget commiting. 
+with automatic versioning you always have your work saved and can return, but it may be very 
+difficult to find the version you want to return to or to compare with
+
+google docs or dropbox is not meant to handle version control on group of files, but git is. in most 
+cases sw development requires tracking versions on group of files
+
+using git log i can view complete history of the repository and IDs for each version
+using git diff i can compare two versions by specifying their Ids
+
+when using version control, i do not have to worry about breaking code, because i can always revert 
+back to version that works. provided i commit often enough and at the right times
+
+i want to use git to work on my projects in javascript and swift
