@@ -13,3 +13,5 @@ forks are a special type of colnes, existing only on github. advantage of forks 
 What is the benefit of having a copy of the last known state of the remote stored locally? 
 this way i can check changes i made to the remote even if i am offline
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+using dropbox and google dirve or email. for texts this is much easier, but for source code where every detail is important, github and git is a better choice
