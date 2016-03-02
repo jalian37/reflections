@@ -6,3 +6,7 @@ on the same files.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 because not all my commits are suitable for public and more importantly, i would have to be always online 
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+branches are different versions within one repository. clones are different versions of repositories either on github or locally
+forks are a special type of colnes, existing only on github. advantage of forks is they remember its original repository and you can suggest changes to the original repository
+
