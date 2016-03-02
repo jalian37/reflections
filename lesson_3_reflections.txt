@@ -10,3 +10,6 @@ Describe the differences between forks, clones, and branches. When would you use
 branches are different versions within one repository. clones are different versions of repositories either on github or locally
 forks are a special type of colnes, existing only on github. advantage of forks is they remember its original repository and you can suggest changes to the original repository
 
+What is the benefit of having a copy of the last known state of the remote stored locally? 
+this way i can check changes i made to the remote even if i am offline
+
